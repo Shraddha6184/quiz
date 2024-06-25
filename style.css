@@ -74,6 +74,12 @@
             color: #4CAF50;
             margin-left: 40%;
         }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 15%;
+          }
         @media (max-width: 480px) {
             #choices {
                 grid-template-columns: 1fr;
